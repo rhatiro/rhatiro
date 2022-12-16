@@ -18,15 +18,17 @@
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhatiro&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!---
-# Contacts
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhatiro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://br.linkedin.com/)
---->
+
+# Contact
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/rhatiro/)
+
 
 <!---
 rhatiro/rhatiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
