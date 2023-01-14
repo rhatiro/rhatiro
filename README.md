@@ -32,9 +32,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhatiro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Rhatiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhatiro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 # Contact
