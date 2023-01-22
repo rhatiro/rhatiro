@@ -1,11 +1,10 @@
-# Bio
-<!-- 
-- 👋 Hi, I’m Roberto Hatiro, or also @rhatiro.
-- 👀 I’m interested in learning as much as possible about development, programming languages and data science to achieve my goal of migrating my professional career from audiovisual.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, jQuery, React, Python, SQL, Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on all projects and challenges that give me the opportunity to demonstrate my potential.
-- 📫 How to reach me can be through my email roberto.nishiyama@yahoo.com.br or [LinkedIn](https://www.linkedin.com/in/rhatiro/).
- -->
+<!-- # Bio -->
+
+<!-- - 👋 Hi, I’m Roberto Hatiro, or also @rhatiro. -->
+<!-- - 👀 I’m interested in learning as much as possible about development, programming languages and data science to achieve my goal of migrating my professional career from audiovisual. -->
+<!-- - 🌱 I’m currently learning HTML, CSS, JavaScript, jQuery, React, Python, SQL, Data Science and Machine Learning. -->
+<!-- - 💞️ I’m looking to collaborate on all projects and challenges that give me the opportunity to demonstrate my potential. -->
+<!-- - 📫 How to reach me can be through my email roberto.nishiyama@yahoo.com.br or [LinkedIn](https://www.linkedin.com/in/rhatiro/). -->
 
 
 <!--  -->
@@ -19,6 +18,9 @@
 
 <!-- [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)]() -->
 <!-- [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)]() -->
+<!-- [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)]() -->
+<!-- [![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white)]() -->
+<!-- [![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white)]() -->
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)]()
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)]()
@@ -27,6 +29,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]()
+<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]() -->
 
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
