@@ -16,10 +16,10 @@
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)]()
 [![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white)]()
 
-<!-- [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)]() -->
-<!-- [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)]() -->
-<!-- [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)]() -->
-<!-- [![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white)]() -->
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white)]()
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)]()
 <!-- [![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white)]() -->
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)]()
