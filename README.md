@@ -42,8 +42,8 @@
 
 <!-- [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)]() -->
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
 <!-- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]() -->
 <!-- [![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=flat-square&logo=lubuntu&logoColor=white)]() -->
 <!-- [![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)]() -->
