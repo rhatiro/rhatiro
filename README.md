@@ -40,10 +40,12 @@
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)]()
 [![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)]()
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
+<!-- [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)]() -->
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)]()
-[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)]()
-
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+<!-- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]() -->
+<!-- [![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=flat-square&logo=lubuntu&logoColor=white)]() -->
 
 <!--  -->
 
