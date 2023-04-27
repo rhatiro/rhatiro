@@ -11,8 +11,8 @@
 
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)]()
-[![Conda](https://img.shields.io/badge/conda-342B029.svg?&logo=anaconda&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)]()
+[![Conda](https://img.shields.io/badge/conda-342B029.svg?logo=anaconda&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)]()
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)]()
 
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white)]()
