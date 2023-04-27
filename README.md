@@ -58,7 +58,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&theme=transparent)]() -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&layout=compact&theme=transparent)]()
-
 [![Rhatiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhatiro&theme=transparent)]()
 
 <!--  -->
