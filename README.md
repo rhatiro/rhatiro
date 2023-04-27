@@ -6,10 +6,13 @@
 <!-- - 💞️ I’m looking to collaborate on all projects and challenges that give me the opportunity to demonstrate my potential. -->
 <!-- - 📫 How to reach me can be through my email roberto.nishiyama@yahoo.com.br or [LinkedIn](https://www.linkedin.com/in/rhatiro/). -->
 
-
 <!--  -->
 
-
+<details open>
+  <summary>
+    <h1>Programming Languages, Frameworks & Technologies</h1>
+  </summary>
+  
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)]()
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?logo=anaconda&logoColor=white)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)]()
@@ -50,9 +53,7 @@
 <!-- [![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=white)]() -->
 <!-- [![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?logo=zorin&logoColor=white)]() -->
 
-
 <!--  -->
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&theme=transparent)]() -->
 
@@ -60,17 +61,20 @@
 
 [![Rhatiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhatiro&theme=transparent)]()
 
+<!--  -->
+
+</details>
 
 <!--  -->
 
 #
 
 # [Certificates](https://github.com/rhatiro/certificados)
+> https://github.com/rhatiro/certificados
 
 ---
 
 <!--  -->
-
 
 # [Contact](mailto:roberto.nishiyama@yahoo.com.br)
 
@@ -81,9 +85,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/robertohatiro)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-3a464b?logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/25785988)
 
-
 <!--  -->
-
 
 <!---
 rhatiro/rhatiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
