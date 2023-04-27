@@ -7,6 +7,21 @@
 <!-- - 📫 How to reach me can be through my email roberto.nishiyama@yahoo.com.br or [LinkedIn](https://www.linkedin.com/in/rhatiro/). -->
 
 <!--  -->
+<!--  -->
+
+<details open>
+  <summary><h1>Bio</h1></summary>
+
+- Data Science student in career transition, with a bachelor's degree in Social Communication;
+- Solid experience in data treatment, manipulation, and visualization using Python, SQL and major libraries such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, as well as familiarity with development environments such as Anaconda and Jupyter Notebook;
+- Skills in exploratory analysis using the CRISP-DM methodology, building and applying machine learning algorithms, statistical models such as linear regression, logistic regression, classification, and decision-making, through scripting and deployment with Streamlit, along with version control tools such as Git and GitHub;
+- Familiarity with machine learning concepts and additional interest in artificial intelligence;
+- Complementary knowledge in Front-End development and responsive design, with experience in HTML, CSS, JavaScript and React.
+
+</details>
+
+<!--  -->
+<!--  -->
 
 <details open>
   <summary>
@@ -65,6 +80,7 @@
 </details>
 
 <!--  -->
+<!--  -->
 
 #
 
@@ -76,9 +92,9 @@
 </details>
 
 <!--  -->
-
+<!--  -->
 ---
-
+<!--  -->
 <!--  -->
 
 <details open>
@@ -93,6 +109,7 @@
   
 </details>
 
+<!--  -->
 <!--  -->
 
 <!---
