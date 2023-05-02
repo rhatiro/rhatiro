@@ -106,6 +106,10 @@
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/robertohatiro)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-3a464b?logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/25785988)
+
+---
+
+[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/CV-Roberto_Hatiro.pdf)
   
 </details>
 
