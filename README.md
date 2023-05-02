@@ -9,7 +9,7 @@
 <!--  -->
 <!--  -->
 
-<details open>
+<details>
   <summary><h1>Bio</h1></summary>
 
 - Data Science student in career transition, with a bachelor's degree in Social Communication;
