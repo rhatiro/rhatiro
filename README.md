@@ -10,7 +10,7 @@
 <!--  -->
 
 <details>
-  <summary><h1>Bio</h1></summary>
+  <summary><h1>👨🏻‍💻 Bio</h1></summary>
 
 - Data Science student in career transition, with a bachelor's degree in Social Communication;
 - Solid experience in data treatment, manipulation, and visualization using Python, SQL and major libraries such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, as well as familiarity with development environments such as Anaconda and Jupyter Notebook;
@@ -25,7 +25,7 @@
 
 <details open>
   <summary>
-    <h1>Programming Languages, Frameworks & Technologies</h1>
+    <h1>💻 Programming Languages, Frameworks & Technologies</h1>
   </summary>
   
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)]()
@@ -85,7 +85,7 @@
 #
 
 <details open>
-  <summary><h1>Certificates</h1></summary>
+  <summary><h1>📜 Certificates</h1></summary>
 
 <!-- > https://github.com/rhatiro/certificados -->
 > [![GitHub Repo](https://img.shields.io/badge/repo-https://github.com/rhatiro/certificados-transparent?&logo=github&logoColor=white)](https://github.com/rhatiro/certificados)
@@ -99,7 +99,7 @@
 <!--  -->
 
 <details open>
-  <summary><h1>Contact</h1></summary>
+  <summary><h1>📩 Contact</h1></summary>
 
 [![Yahoo Badge](https://img.shields.io/badge/roberto.nishiyama@yahoo.com.br-410093?logo=yahoo)](mailto:roberto.nishiyama@yahoo.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/Roberto%20Hatiro-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhatiro/)
