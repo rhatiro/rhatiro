@@ -25,7 +25,7 @@
 
 <details open>
   <summary>
-    <h1>💻 Programming Languages, Frameworks & Technologies</h1>
+    <h1>💻 Technologies</h1>
   </summary>
   
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)]()
