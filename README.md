@@ -87,7 +87,6 @@
 <details open>
   <summary><h1>📜 Certificates</h1></summary>
 
-<!-- > https://github.com/rhatiro/certificados -->
 > [![GitHub Repo](https://img.shields.io/badge/repo-https://github.com/rhatiro/certificados-transparent?&logo=github&logoColor=white)](https://github.com/rhatiro/certificados)
 
 </details>
@@ -114,7 +113,6 @@
   
 </details>
 
-<!--  -->
 <!--  -->
 
 <!---
