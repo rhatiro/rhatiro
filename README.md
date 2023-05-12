@@ -12,10 +12,11 @@
 <details>
   <summary><h1>👨🏻‍💻 Bio</h1></summary>
 
-- Data Science student in career transition, with a bachelor's degree in Social Communication;
-- Solid experience in data treatment, manipulation, and visualization using Python, SQL and major libraries such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, as well as familiarity with development environments such as Anaconda and Jupyter Notebook;
-- Skills in exploratory analysis using the CRISP-DM methodology, building and applying machine learning algorithms, statistical models such as linear regression, logistic regression, classification, and decision-making, through scripting and deployment with Streamlit, along with version control tools such as Git and GitHub;
-- Familiarity with machine learning concepts and additional interest in artificial intelligence;
+- Professional with an evolving career in the area of data science through ongoing courses;
+- Solid experience in processing, manipulating and visualizing data using languages Python, SQL and major libraries such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, as well as familiarization with development environments such as Anaconda and Jupyter Notebook;
+- Skills in descriptive/exploratory analysis with CRISP-DM methodology, construction and application of Machine Learning algorithms, linear regression statistical models, logistic regression, classification and decision, along with scripting and deploy via Streamlit;
+- Familiarity with the cloud services platform AWS (Amazon Web Services) and the services for computation and data analysis like S3 and Athena;
+- Git and GitHub version control system;
 - Complementary knowledge in Front-End development and responsive design, with experience in HTML, CSS, JavaScript and React.
 
 </details>
