@@ -110,7 +110,7 @@
 
 #
 
-[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/CV-Roberto_Hatiro.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/CV%20-%20Roberto%20Hatiro%20-%20Cientista%20de%20Dados.pdf)
   
 </details>
 
