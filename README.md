@@ -1,13 +1,7 @@
-<!-- # Bio -->
-
-<!-- - 👋 Hi, I’m Roberto Hatiro, or also @rhatiro. -->
-<!-- - 👀 I’m interested in learning as much as possible about development, programming languages and data science to achieve my goal of migrating my professional career from audiovisual. -->
-<!-- - 🌱 I’m currently learning HTML, CSS, JavaScript, jQuery, React, Python, SQL, Data Science and Machine Learning. -->
-<!-- - 💞️ I’m looking to collaborate on all projects and challenges that give me the opportunity to demonstrate my potential. -->
-<!-- - 📫 How to reach me can be through my email roberto.nishiyama@yahoo.com.br or [LinkedIn](https://www.linkedin.com/in/rhatiro/). -->
-
-<!--  -->
-<!--  -->
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+<!--   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp; -->
+</div> 
 
 <details>
   <summary><h1>👨🏻‍💻 Bio</h1></summary>
