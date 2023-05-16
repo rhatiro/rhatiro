@@ -7,9 +7,9 @@
   <summary><h1>👨🏻‍💻 Bio</h1></summary>
 
 - Professional with an evolving career in the area of data science through ongoing courses;
-- Solid experience in processing, manipulating and visualizing data using languages Python, SQL and major libraries such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, as well as familiarization with development environments such as Anaconda and Jupyter Notebook;
-- Skills in descriptive/exploratory analysis with CRISP-DM methodology, construction and application of Machine Learning algorithms, linear regression statistical models, logistic regression, classification and decision, along with scripting and deploy via Streamlit;
-- Familiarity with the cloud services platform AWS (Amazon Web Services) and the services for computation and data analysis like S3 and Athena;
+- Solid experience in data treatment, manipulation and visualization using Python, SQL and main libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, in addition to familiarization with development environments such as Anaconda and Jupyter Notebook;
+- Skills in descriptive/exploratory analysis (EDA), CRISP-DM methodology, construction and application of Machine Learning algorithms, statistical linear regression models, logistic regression, classification and decision, along with scripting and deploy via Streamlit;
+- Familiarity with the cloud service platform AWS (Amazon Web Services) and services for computation and data analysis such as S3 and Athena;
 - Git and GitHub version control system;
 - Complementary knowledge in Front-End development and responsive design, with experience in HTML, CSS, JavaScript and React.
 
