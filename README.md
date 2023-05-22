@@ -60,13 +60,9 @@
 [![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)]()
 [![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)]()
 
-<!-- [![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)]() -->
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
-<!-- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)]() -->
-<!-- [![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=white)]() -->
-<!-- [![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?logo=zorin&logoColor=white)]() -->
 
 <!--  -->
 
