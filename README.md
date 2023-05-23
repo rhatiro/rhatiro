@@ -1,8 +1,8 @@
-<div style="display: inline">
+<!-- <div style="display: inline"> -->
 <!--   &nbsp;<img width='50' height='50' src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" />&nbsp; -->
-  &nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+<!--   &nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp; -->
 <!--   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp; -->
-</div> 
+<!-- </div>  -->
 
 <details>
   <summary><h1>👨🏻‍💻 Bio</h1></summary>
