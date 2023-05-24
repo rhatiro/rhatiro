@@ -7,7 +7,7 @@
 <details>
   <summary><h1>👨🏻‍💻 Bio</h1></summary>
 
-- Professional with an evolving career in the area of data science through ongoing courses;
+- Professional with an evolving career in the field of data science;
 - Solid experience in data treatment, manipulation and visualization using Python, SQL and main libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, in addition to familiarization with development environments such as Anaconda and Jupyter Notebook;
 - Skills in descriptive/exploratory analysis (EDA), CRISP-DM methodology, construction and application of Machine Learning algorithms, statistical linear regression models, logistic regression, classification and decision, along with scripting and deploy via Streamlit;
 - Familiarity with the cloud service platform AWS (Amazon Web Services) and services for computation and data analysis such as S3 and Athena;
