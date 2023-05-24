@@ -99,9 +99,9 @@
 <details open>
   <summary><h1>📩 Contact</h1></summary>
 
-[![Yahoo Badge](https://img.shields.io/badge/roberto.nishiyama@yahoo.com.br-410093?logo=yahoo)](mailto:roberto.nishiyama@yahoo.com.br)
-[![Linkedin Badge](https://img.shields.io/badge/Roberto%20Hatiro-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhatiro/)
-[![GitHub Badge](https://img.shields.io/badge/rhatiro-black?logo=github&logoColor=white)](https://github.com/rhatiro)
+- [![Yahoo Badge](https://img.shields.io/badge/roberto.nishiyama@yahoo.com.br-410093?logo=yahoo)](mailto:roberto.nishiyama@yahoo.com.br)
+- [![Linkedin Badge](https://img.shields.io/badge/Roberto%20Hatiro-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhatiro/)
+- [![GitHub Badge](https://img.shields.io/badge/rhatiro-black?logo=github&logoColor=white)](https://github.com/rhatiro)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/robertohatiro)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-3a464b?logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/25785988)
