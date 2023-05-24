@@ -7,12 +7,14 @@
 <details>
   <summary><h1>👨🏻‍💻 Bio</h1></summary>
 
-- Professional with an evolving career in the field of data science;
-- Solid experience in data treatment, manipulation and visualization using Python, SQL and main libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, in addition to familiarization with development environments such as Anaconda and Jupyter Notebook;
-- Skills in descriptive/exploratory analysis (EDA), CRISP-DM methodology, construction and application of Machine Learning algorithms, statistical linear regression models, logistic regression, classification and decision, along with scripting and deploy via Streamlit;
-- Familiarity with the cloud service platform AWS (Amazon Web Services) and services for computation and data analysis such as S3 and Athena;
-- Git and GitHub version control system;
-- Complementary knowledge in Front-End development and responsive design, with experience in HTML, CSS, JavaScript and React.
+| EN | PT |
+| --- | --- |
+| Professional with an evolving career in the field of data science. | Profissional com carreira em evolução na área de ciência de dados. |
+| Solid experience in data treatment, manipulation and visualization using Python, SQL and main libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, in addition to familiarization with development environments such as Anaconda and Jupyter Notebook. | Sólida experiência em tratamento, manipulação e visualização de dados com utilização de linguagens Python, SQL e principais bibliotecas, como NumPy, Pandas, Matplotlib, Seaborn e Scikit-learn, além de familiarização com ambientes de desenvolvimento como Anaconda e Jupyter Notebook. |
+| Skills in descriptive/exploratory analysis (EDA), CRISP-DM methodology, construction and application of Machine Learning algorithms, statistical linear regression models, logistic regression, classification and decision, along with scripting and deploy via Streamlit. | Habilidades em análise descritiva/exploratória (EDA), metodologia CRISP-DM, construção e aplicação de algoritmos de Machine Learning, modelos estatísticos de regressão linear, regressão logística, classificação e decisão, juntamente com scripting e deploy via Streamlit. |
+| Familiarity with the cloud service platform AWS (Amazon Web Services) and services for computation and data analysis such as S3 and Athena. | Familiaridade com a plataforma de serviços em nuvem AWS (Amazon Web Services) e os serviços para computação e análise de dados como S3 e Athena. |
+| Git and GitHub version control system. | Sistema de controle de versão Git e GitHub. |
+| Complementary knowledge in Front-End development and responsive design, with experience in HTML, CSS, JavaScript and React. | Conhecimento complementar em desenvolvimento Front-End e design responsivo, com experiência em HTML, CSS, JavaScript e React. |
 
 </details>
 
