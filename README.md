@@ -11,7 +11,7 @@
 | --- | --- |
 | Professional with an evolving career in the field of data science. | Profissional com carreira em evolução na área de ciência de dados. |
 | Solid experience in processing, manipulating and visualizing data using Python, SQL and major libraries such as NumPy, Pandas, Matplotlib, Seaborn, Plotly and Scikit-learn, as well as familiarity with development environments such as Anaconda and Jupyter Notebook. | Sólida experiência em tratamento, manipulação e visualização de dados com utilização de linguagens Python, SQL e principais bibliotecas, como NumPy, Pandas, Matplotlib, Seaborn, Plotly e Scikit-learn, além de familiaridade com ambientes de desenvolvimento como Anaconda e Jupyter Notebook. |
-| Skills in descriptive/exploratory analysis (EDA), CRISP-DM methodology, construction and application of Machine Learning algorithms, statistical linear regression models, logistic regression, classification and decision, along with scripting and deploy via Streamlit. | Habilidades em análise descritiva/exploratória (EDA), metodologia CRISP-DM, construção e aplicação de algoritmos de Machine Learning, modelos estatísticos de regressão linear, regressão logística, classificação e decisão, juntamente com scripting e deploy via Streamlit. |
+| Skills in descriptive/exploratory analysis (EDA), CRISP-DM methodology, construction and application of Machine Learning algorithms, statistical classification and regression models, along with scripting and deploy via Streamlit. | Habilidades em análise descritiva/exploratória (EDA), metodologia CRISP-DM, construção e aplicação de algoritmos de Machine Learning, modelos estatísticos de classificação e regressão, juntamente com scripting e deploy via Streamlit. |
 | Familiarity with the cloud service platform AWS (Amazon Web Services) and services for computation and data analysis such as S3 and Athena. | Familiaridade com a plataforma de serviços em nuvem AWS (Amazon Web Services) e os serviços para computação e análise de dados como S3 e Athena. |
 | Experience with the PostgreSQL Database Management System, including creating and manipulating tables, SQL queries, and notions of performance optimization. | Experiência com o Sistema de Gerenciamento de Banco de Dados PostgreSQL, incluindo criação e manipulação de tabelas, consultas SQL, e noções de otimização de desempenho. |
 | Solid knowledge in Git and GitHub version control system, including repository management, code versioning, conflict resolution and team collaboration. | Conhecimento sólido em sistema de controle de versão Git e GitHub, incluindo gerenciamento de repositórios, versionamento de código, resolução de conflitos e colaboração em equipe. |
@@ -109,7 +109,7 @@
 
 #
 
-[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/CV%20-%20Roberto%20Hatiro%20-%20Cientista%20de%20Dados.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/Cientista%20de%20Dados/CV%20-%20Roberto%20Hatiro%20-%20Cientista%20de%20Dados.pdf)
   
 </details>
 
