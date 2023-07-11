@@ -9,13 +9,13 @@
 
 | EN | PT |
 | --- | --- |
-| Professional with an evolving career in the field of data science. | Profissional com carreira em evolução na área de ciência de dados. |
-| Solid experience in processing, manipulating and visualizing data using Python, SQL and main libraries, such as NumPy, Pandas, Matplotlib, Seaborn, Plotly and Scikit-learn, as well as familiarity with development environments such as the Anaconda Platform and Jupyter Notebook. | Sólida experiência em tratamento, manipulação e visualização de dados com utilização das linguagens Python, SQL e principais bibliotecas, como NumPy, Pandas, Matplotlib, Seaborn, Plotly e Scikit-learn, além de familiaridade com ambientes de desenvolvimento como a Plataforma Anaconda e Jupyter Notebook. |
-| Skills in descriptive/exploratory analysis (EDA) and CRISP-DM methodology. | Habilidades em análise descritiva/exploratória (EDA) e metodologia CRISP-DM. |
-| Construction and implementation of Machine Learning algorithms, involving predictive classification and regression models, Ensemble techniques, as well as performance optimization strategies. | Construção e implementação de algoritmos de Machine Learning, envolvendo modelos preditivos de classificação e regressão, técnicas de Ensemble, bem como estratégias de otimização de performance. |
+| Professional with an evolving career in the data area. | Profissional com carreira em evolução na área de dados. |
+| Solid experience in processing, manipulating and visualizing data using Python, SQL and various libraries for Data Science, as well as familiarity with development environments such as the Anaconda Platform and Jupyter Notebook. | Sólida experiência em tratamento, manipulação e visualização de dados com utilização das linguagens Python, SQL e bibliotecas diversas para Data Science, além de familiaridade com ambientes de desenvolvimento como a Plataforma Anaconda e Jupyter Notebook. |
+| Skills in ETL (Extraction, Transformation and Load), descriptive/exploratory analysis (EDA) and CRISP-DM methodology (Cross Industry Standard Process for Data Mining). | Habilidades em ETL (Extração, Transformação e Carga), análise descritiva/exploratória (EDA) e metodologia CRISP-DM (Cross Industry Standard Process for Data Mining). |
+| Construction and implementation of Machine Learning algorithms, covering predictive classification and regression models, Ensemble techniques, supervised and unsupervised learning, performance optimization strategies, as well as the use of PCA (Principal Component Analysis) and clustering for dimensionality reduction. | Construção e implementação de algoritmos de Machine Learning, abrangendo modelos preditivos de classificação e regressão, técnicas de Ensemble, aprendizado supervisionado e não supervisionado, estratégias de otimização de desempenho, bem como utilização de PCA (Principal Component Analysis) e clustering para redução de dimensionalidade. |
 | Familiarity with the cloud service platform AWS (Amazon Web Services) and services for computation and data analysis such as S3 and Athena. | Familiaridade com a plataforma de serviços em nuvem AWS (Amazon Web Services) e os serviços para computação e análise de dados como S3 e Athena. |
 | Experience with the PostgreSQL Database Management System, including creating and manipulating tables, SQL queries, and notions of performance optimization. | Experiência com o Sistema de Gerenciamento de Banco de Dados PostgreSQL, incluindo criação e manipulação de tabelas, consultas SQL, e noções de otimização de desempenho. |
-| Solid knowledge in Git and GitHub version control system, including repository management, code versioning, conflict resolution and team collaboration. | Conhecimento sólido em sistema de controle de versão Git e GitHub, incluindo gerenciamento de repositórios, versionamento de código, resolução de conflitos e colaboração em equipe. |
+| Solid knowledge of Git and GitHub version control system, including repository management, code versioning and conflict resolution. | Conhecimento sólido em sistema de controle de versão Git e GitHub, incluindo gerenciamento de repositórios, versionamento de código e resolução de conflitos. |
 | Scripting and deploying interactive applications through Streamlit, combining complementary skills in Front-End development and responsive design, with experience in HTML, CSS and JavaScript. | Scripting e deploy de aplicações interativas através do Streamlit, combinando habilidades complementares em desenvolvimento Front-End e design responsivo, com experiência em HTML, CSS e JavaScript. |
 
 </details>
@@ -110,7 +110,7 @@
 
 #
 
-[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/Cientista%20de%20Dados/CV%20-%20Roberto%20Hatiro%20-%20Data%20Science%20&%20Analytics.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/rhatiro/rhatiro/main/resume/Cientista%20de%20Dados/CV%20-%20Roberto%20Hatiro%20-%20Data%20Science%20%26%20Analytics.pdf)
   
 </details>
 
