@@ -42,6 +42,7 @@
 [![PyPI](https://img.shields.io/badge/pypi-3775A9?logo=pypi&logoColor=white)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)]()
+[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)]()
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)]()
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)]()
